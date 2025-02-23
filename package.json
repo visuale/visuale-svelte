@@ -38,5 +38,9 @@
 		"onlyBuiltDependencies": [
 			"esbuild"
 		]
+	},
+	"dependencies": {
+		"@sveltestack/svelte-query": "^1.6.0",
+		"graphql-request": "^7.1.2"
 	}
 }
